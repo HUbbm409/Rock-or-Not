@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import sklearn as skl
 import sklearn.preprocessing, sklearn.metrics, sklearn.utils, sklearn.multiclass, sklearn.linear_model
 
-features = pd.read_csv('data/fma_metadata/features.csv', index_col=0, header=[0, 1, 2])
-tracks = pd.read_csv('data/fma_metadata/tracks.csv', index_col=0, header=[0, 1])
+features = pd.read_csv('features.csv', index_col=0, header=[0, 1, 2])
+tracks = pd.read_csv('tracks.csv', index_col=0, header=[0, 1])
 
 CENS = 'chroma_cens'
 CQT = 'chroma_cqt'
