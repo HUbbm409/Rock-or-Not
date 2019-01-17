@@ -6,8 +6,8 @@ import sklearn.utils, sklearn.preprocessing, sklearn.decomposition, sklearn.svm
 from sklearn.metrics import confusion_matrix
 import itertools
 
-features = pd.read_csv('data/fma_metadata/features.csv', index_col=0, header=[0, 1, 2])
-tracks = pd.read_csv('data/fma_metadata/tracks.csv', index_col=0, header=[0, 1])
+features = pd.read_csv('features.csv', index_col=0, header=[0, 1, 2])
+tracks = pd.read_csv('tracks.csv', index_col=0, header=[0, 1])
 
 CENS = 'chroma_cens'
 CQT = 'chroma_cqt'
