@@ -2,6 +2,8 @@ rock or not?
 ======
 In this work we have built a Music Genre Recognition System using various Machine/Deep Learning methods which are compared and discussed.
 
+Tunçer D, Barçin K, Bölücü N, Erdem A. Music Genre Recognition with Machine Learning. Poster presented at 27th Signal Processing and Communications Applications Conference (SIU), Sivas, 2019.
+
 In order to run
 - Support Vector Machines `support_vector_machines.py` or `support_vector_machines.ipynb`
 - Nearest Neighbors `nearest_neighbors.py` or `nearest_neighbors.ipynb`
