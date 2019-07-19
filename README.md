@@ -22,7 +22,7 @@ You can test your audio on: `application.ipynb`
 
 Medium Blogs:
 
-- [Week 1 Introduction](https://www.youtube.com/watch?v=JUi-dV562FM)
+- [Week 1 Introduction](https://medium.com/bbm406f18/week-1-rock-or-not-f099972afd8)
 - [Week 2 Dataset Exploration](https://medium.com/bbm406f18/week-2-rock-or-not-e725447220cc)
 - [Week 3 Dataset Exploration (Continued)](https://medium.com/bbm406f18/week-3-rock-or-not-3a7dafd5995e)
 - [Week 4 Related Works](https://medium.com/bbm406f18/week-4-rock-or-not-cbbe50c885fd)
